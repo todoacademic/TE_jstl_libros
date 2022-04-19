@@ -1,0 +1,5 @@
+com\emergentes\modelo\GestorCategorias.class
+com\emergentes\modelo\Libro.class
+com\emergentes\modelo\Categoria.class
+com\emergentes\controlador\Controller.class
+com\emergentes\modelo\GestorLibros.class
